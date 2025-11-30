@@ -1,0 +1,144 @@
+0000000000000000000000000000000000000000 6c26366fefe9cdb42652019db62838b430642c31 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714401624 -0400	commit (initial): Intro for pipeline
+6c26366fefe9cdb42652019db62838b430642c31 6c26366fefe9cdb42652019db62838b430642c31 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714402421 -0400	checkout: moving from master to main
+6c26366fefe9cdb42652019db62838b430642c31 786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714732236 -0400	commit: Training material updated
+786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 99a9193ed8210a709bbfc941633d6a424e947185 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715080374 -0400	commit: Last step of the greatest pipeline
+99a9193ed8210a709bbfc941633d6a424e947185 5f47584617b7ff25f9964b725877d9c202e64a8b Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715243820 -0400	commit: big changes comming
+5f47584617b7ff25f9964b725877d9c202e64a8b 0f8bd8696009a8cab4275b85bd3f0a47f3528176 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715244335 -0400	commit: 0010
+0f8bd8696009a8cab4275b85bd3f0a47f3528176 9ffe0be4e0f4623b2aa69d08a64059eafb6b8a0c Morten Jakobsen <Mojak18@student.sdu.dk> 1715351066 +0200	commit: Update commit_messages.txt
+9ffe0be4e0f4623b2aa69d08a64059eafb6b8a0c 2990aa5c1507233bc1d37ff60def0338267756fc Morten Jakobsen <Mojak18@student.sdu.dk> 1715351434 +0200	commit: f
+2990aa5c1507233bc1d37ff60def0338267756fc 2990aa5c1507233bc1d37ff60def0338267756fc William Bundgaard <william.bundgd@gmail.com> 1734357629 +0100	reset: moving to HEAD
+2990aa5c1507233bc1d37ff60def0338267756fc c89218303530b241d463765682abf206062d11ee William Bundgaard <william.bundgd@gmail.com> 1734357799 +0100	commit: update
+c89218303530b241d463765682abf206062d11ee 9ffe0be4e0f4623b2aa69d08a64059eafb6b8a0c William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (start): checkout 9ffe0be4e0f4623b2aa69d08a64059eafb6b8a0c
+9ffe0be4e0f4623b2aa69d08a64059eafb6b8a0c 4c410046fe6658c80a479232bcaa3001d363aedd William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): update
+4c410046fe6658c80a479232bcaa3001d363aedd 74862f434133004faf8e6fa9013bb00a0a4be069 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): f
+74862f434133004faf8e6fa9013bb00a0a4be069 74862f434133004faf8e6fa9013bb00a0a4be069 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (finish): returning to refs/heads/main
+74862f434133004faf8e6fa9013bb00a0a4be069 0f8bd8696009a8cab4275b85bd3f0a47f3528176 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (start): checkout 0f8bd8696009a8cab4275b85bd3f0a47f3528176
+0f8bd8696009a8cab4275b85bd3f0a47f3528176 1be17a0c281eaa679d4e8ea5328bdcdf6f706784 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): update
+1be17a0c281eaa679d4e8ea5328bdcdf6f706784 6315256de20b31377695048093a61e47a37b2d10 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): Update commit_messages.txt
+6315256de20b31377695048093a61e47a37b2d10 989b592e35906b906cf15ad8cff4bd7132376e2c William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): f
+989b592e35906b906cf15ad8cff4bd7132376e2c 989b592e35906b906cf15ad8cff4bd7132376e2c William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (finish): returning to refs/heads/main
+989b592e35906b906cf15ad8cff4bd7132376e2c 5f47584617b7ff25f9964b725877d9c202e64a8b William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (start): checkout 5f47584617b7ff25f9964b725877d9c202e64a8b
+5f47584617b7ff25f9964b725877d9c202e64a8b b1f7c6cdee10743008501de49d14fc101cec3adb William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): update
+b1f7c6cdee10743008501de49d14fc101cec3adb 7ec59095ca78e3c5349e5088a92c31f1826c4229 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): 0010
+7ec59095ca78e3c5349e5088a92c31f1826c4229 593dcf54414a100c3ec654956b5fd0dd3cfeb7af William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): Update commit_messages.txt
+593dcf54414a100c3ec654956b5fd0dd3cfeb7af 8d535aa8f09441cb6da6be530dc83fb3997ef714 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (pick): f
+8d535aa8f09441cb6da6be530dc83fb3997ef714 8d535aa8f09441cb6da6be530dc83fb3997ef714 William Bundgaard <william.bundgd@gmail.com> 1734357804 +0100	rebase -i (finish): returning to refs/heads/main
+8d535aa8f09441cb6da6be530dc83fb3997ef714 99a9193ed8210a709bbfc941633d6a424e947185 William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (start): checkout 99a9193ed8210a709bbfc941633d6a424e947185
+99a9193ed8210a709bbfc941633d6a424e947185 9e1fd559d3fd4df2c2f5a91988f7b40a2c360461 William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (pick): update
+9e1fd559d3fd4df2c2f5a91988f7b40a2c360461 533df22d4dfa3ad41191a778280e35802752de73 William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (pick): big changes comming
+533df22d4dfa3ad41191a778280e35802752de73 c6b4ee05a2bc14fe319b9ce73ebe445a380904ff William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (pick): 0010
+c6b4ee05a2bc14fe319b9ce73ebe445a380904ff e1a711bc8fa48a737d57134116be79323ed5004e William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (pick): Update commit_messages.txt
+e1a711bc8fa48a737d57134116be79323ed5004e b2a98f01f831224cc9ae0a500214895f896a5d0e William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (pick): f
+b2a98f01f831224cc9ae0a500214895f896a5d0e b2a98f01f831224cc9ae0a500214895f896a5d0e William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (finish): returning to refs/heads/main
+b2a98f01f831224cc9ae0a500214895f896a5d0e 786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 William Bundgaard <william.bundgd@gmail.com> 1734357805 +0100	rebase -i (start): checkout 786b9f918a793127d0d0bac35fa1b0f88a6bc1f2
+786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 83dcbfc4631e40d65417451da07b00efbd261c0f William Bundgaard <william.bundgd@gmail.com> 1734357823 +0100	rebase -i (continue): update
+83dcbfc4631e40d65417451da07b00efbd261c0f 8d54f9c52fc6049d4063e0d7a969e55502145dff William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (continue): Last step of the greatest pipeline
+8d54f9c52fc6049d4063e0d7a969e55502145dff 200a2c1826540642928f987f1f00a5d2fdebdc94 William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (pick): big changes comming
+200a2c1826540642928f987f1f00a5d2fdebdc94 32442915412e2b21898b5137071e0c7e06d59722 William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (pick): 0010
+32442915412e2b21898b5137071e0c7e06d59722 5ac20358ce3a704908783d289741de53cc757e43 William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (pick): Update commit_messages.txt
+5ac20358ce3a704908783d289741de53cc757e43 da7912de70a86138ce70be014ee9fd7b66ec42ff William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (pick): f
+da7912de70a86138ce70be014ee9fd7b66ec42ff da7912de70a86138ce70be014ee9fd7b66ec42ff William Bundgaard <william.bundgd@gmail.com> 1734357839 +0100	rebase -i (finish): returning to refs/heads/main
+da7912de70a86138ce70be014ee9fd7b66ec42ff 786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 William Bundgaard <william.bundgd@gmail.com> 1734357843 +0100	rebase -i (start): checkout 6c26366fefe9cdb42652019db62838b430642c31
+786b9f918a793127d0d0bac35fa1b0f88a6bc1f2 33c9ab0649e3744fe501ed16debe22a908ab90ed William Bundgaard <william.bundgd@gmail.com> 1734357843 +0100	rebase -i (squash): Training material updated
+33c9ab0649e3744fe501ed16debe22a908ab90ed c216b927cff0396d791ff918e3f657dabea8d993 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (pick): Last step of the greatest pipeline
+c216b927cff0396d791ff918e3f657dabea8d993 fc2454181d7d7d533e3122f51bcb5f87a82d94d8 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (pick): big changes comming
+fc2454181d7d7d533e3122f51bcb5f87a82d94d8 03314817ebe001b3d94f026bb75d1e94e1316192 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (pick): 0010
+03314817ebe001b3d94f026bb75d1e94e1316192 5b88bcba3c13642ac38ab4dc8cc1c56cb67df470 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (pick): Update commit_messages.txt
+5b88bcba3c13642ac38ab4dc8cc1c56cb67df470 681c9077b752ebf0bc700c35ddc210d112abaa91 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (pick): f
+681c9077b752ebf0bc700c35ddc210d112abaa91 681c9077b752ebf0bc700c35ddc210d112abaa91 William Bundgaard <william.bundgd@gmail.com> 1734357844 +0100	rebase -i (finish): returning to refs/heads/main
+681c9077b752ebf0bc700c35ddc210d112abaa91 33c9ab0649e3744fe501ed16debe22a908ab90ed William Bundgaard <william.bundgd@gmail.com> 1734357888 +0100	rebase -i (start): checkout 33c9ab0649e3744fe501ed16debe22a908ab90ed
+33c9ab0649e3744fe501ed16debe22a908ab90ed c216b927cff0396d791ff918e3f657dabea8d993 William Bundgaard <william.bundgd@gmail.com> 1734357888 +0100	rebase -i: fast-forward
+c216b927cff0396d791ff918e3f657dabea8d993 f9d61f837e55c617ee6f613510fdf2503c49e2b5 William Bundgaard <william.bundgd@gmail.com> 1734357972 +0100	commit: update
+f9d61f837e55c617ee6f613510fdf2503c49e2b5 3b6e9cc205ef7e65d73de8e51495070841cea949 William Bundgaard <william.bundgd@gmail.com> 1734358007 +0100	rebase -i (continue): big changes comming
+3b6e9cc205ef7e65d73de8e51495070841cea949 89b7fbb4a82ccf07286c851e1b61e91cba4ebb94 William Bundgaard <william.bundgd@gmail.com> 1734358007 +0100	rebase -i (pick): 0010
+89b7fbb4a82ccf07286c851e1b61e91cba4ebb94 65d17ff7259fa52b5fc9bb8b7e4805de8e030012 William Bundgaard <william.bundgd@gmail.com> 1734358007 +0100	rebase -i (pick): Update commit_messages.txt
+65d17ff7259fa52b5fc9bb8b7e4805de8e030012 90db806fc2c1b95d2519f5e3b3286c35950ab6e0 William Bundgaard <william.bundgd@gmail.com> 1734358007 +0100	rebase -i (pick): f
+90db806fc2c1b95d2519f5e3b3286c35950ab6e0 90db806fc2c1b95d2519f5e3b3286c35950ab6e0 William Bundgaard <william.bundgd@gmail.com> 1734358007 +0100	rebase -i (finish): returning to refs/heads/main
+90db806fc2c1b95d2519f5e3b3286c35950ab6e0 c216b927cff0396d791ff918e3f657dabea8d993 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (start): checkout 33c9ab0649e3744fe501ed16debe22a908ab90ed
+c216b927cff0396d791ff918e3f657dabea8d993 6960aa16a74b862e99017852b9ce256a26fd66ee William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (squash): Last step of the greatest pipeline
+6960aa16a74b862e99017852b9ce256a26fd66ee 12a9e22faca17e68d449454b2d9af081e0b006d4 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (pick): big changes comming
+12a9e22faca17e68d449454b2d9af081e0b006d4 7907569646fa57d7798f1504e973603d7cb45337 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (pick): 0010
+7907569646fa57d7798f1504e973603d7cb45337 7e370e01559bd44190d9ef65e09d5d95a344b581 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (pick): Update commit_messages.txt
+7e370e01559bd44190d9ef65e09d5d95a344b581 65d08940dfbbae3da08ec78f35285f50a2ede233 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (pick): f
+65d08940dfbbae3da08ec78f35285f50a2ede233 65d08940dfbbae3da08ec78f35285f50a2ede233 William Bundgaard <william.bundgd@gmail.com> 1734358014 +0100	rebase -i (finish): returning to refs/heads/main
+65d08940dfbbae3da08ec78f35285f50a2ede233 6960aa16a74b862e99017852b9ce256a26fd66ee William Bundgaard <william.bundgd@gmail.com> 1734358015 +0100	rebase -i (start): checkout 6960aa16a74b862e99017852b9ce256a26fd66ee
+6960aa16a74b862e99017852b9ce256a26fd66ee 12a9e22faca17e68d449454b2d9af081e0b006d4 William Bundgaard <william.bundgd@gmail.com> 1734358015 +0100	rebase -i: fast-forward
+12a9e22faca17e68d449454b2d9af081e0b006d4 28075de1d92c15e0d0d66230cc759e231cbdd77c William Bundgaard <william.bundgd@gmail.com> 1734358050 +0100	commit: update
+28075de1d92c15e0d0d66230cc759e231cbdd77c e1e39079a501f6d71f666946cc817c5c7b77621a William Bundgaard <william.bundgd@gmail.com> 1734358053 +0100	rebase -i (pick): 0010
+e1e39079a501f6d71f666946cc817c5c7b77621a c7da7b24fe409e470b8361c3a51cf9e8dda70558 William Bundgaard <william.bundgd@gmail.com> 1734358053 +0100	rebase -i (pick): Update commit_messages.txt
+c7da7b24fe409e470b8361c3a51cf9e8dda70558 9c4b07705b219760456c1c0f2fefa1e594550890 William Bundgaard <william.bundgd@gmail.com> 1734358053 +0100	rebase -i (pick): f
+9c4b07705b219760456c1c0f2fefa1e594550890 9c4b07705b219760456c1c0f2fefa1e594550890 William Bundgaard <william.bundgd@gmail.com> 1734358053 +0100	rebase -i (finish): returning to refs/heads/main
+9c4b07705b219760456c1c0f2fefa1e594550890 12a9e22faca17e68d449454b2d9af081e0b006d4 William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (start): checkout 6960aa16a74b862e99017852b9ce256a26fd66ee
+12a9e22faca17e68d449454b2d9af081e0b006d4 1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33 William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (squash): big changes comming
+1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33 c4ccd094d49f7cf5580fdfdc608788b52361f05d William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (pick): 0010
+c4ccd094d49f7cf5580fdfdc608788b52361f05d 88caeb010b239ab67071e6dc67356e2176e13593 William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (pick): Update commit_messages.txt
+88caeb010b239ab67071e6dc67356e2176e13593 e3a2379ad91ce13c562e4bbb1d1240caacb036b9 William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (pick): f
+e3a2379ad91ce13c562e4bbb1d1240caacb036b9 e3a2379ad91ce13c562e4bbb1d1240caacb036b9 William Bundgaard <william.bundgd@gmail.com> 1734358057 +0100	rebase -i (finish): returning to refs/heads/main
+e3a2379ad91ce13c562e4bbb1d1240caacb036b9 1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33 William Bundgaard <william.bundgd@gmail.com> 1734358074 +0100	rebase -i (start): checkout 1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33
+1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33 c4ccd094d49f7cf5580fdfdc608788b52361f05d William Bundgaard <william.bundgd@gmail.com> 1734358074 +0100	rebase -i: fast-forward
+c4ccd094d49f7cf5580fdfdc608788b52361f05d 14601bfda41621efeac797d8dd9bbe7584da54e0 William Bundgaard <william.bundgd@gmail.com> 1734358107 +0100	commit: update
+14601bfda41621efeac797d8dd9bbe7584da54e0 0946303e4e4196abcd52f13e1cbc10d77064307a William Bundgaard <william.bundgd@gmail.com> 1734358122 +0100	rebase -i (continue): Update commit_messages.txt
+0946303e4e4196abcd52f13e1cbc10d77064307a 0a4136350991373430ca242932163ed97e714764 William Bundgaard <william.bundgd@gmail.com> 1734358122 +0100	rebase -i (pick): f
+0a4136350991373430ca242932163ed97e714764 0a4136350991373430ca242932163ed97e714764 William Bundgaard <william.bundgd@gmail.com> 1734358122 +0100	rebase -i (finish): returning to refs/heads/main
+0a4136350991373430ca242932163ed97e714764 c4ccd094d49f7cf5580fdfdc608788b52361f05d William Bundgaard <william.bundgd@gmail.com> 1734358129 +0100	rebase -i (start): checkout 1d6c0ee9dbcf70adc1f5d15c1bf92c4b64ad2e33
+c4ccd094d49f7cf5580fdfdc608788b52361f05d 2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa William Bundgaard <william.bundgd@gmail.com> 1734358129 +0100	rebase -i (squash): 0010
+2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa 0ec0c98c0d4cf41befa289622b87dca7acb6ed1b William Bundgaard <william.bundgd@gmail.com> 1734358129 +0100	rebase -i (pick): Update commit_messages.txt
+0ec0c98c0d4cf41befa289622b87dca7acb6ed1b a785f13448d77e2ea1f245f97cc78d401b9ce725 William Bundgaard <william.bundgd@gmail.com> 1734358129 +0100	rebase -i (pick): f
+a785f13448d77e2ea1f245f97cc78d401b9ce725 a785f13448d77e2ea1f245f97cc78d401b9ce725 William Bundgaard <william.bundgd@gmail.com> 1734358129 +0100	rebase -i (finish): returning to refs/heads/main
+a785f13448d77e2ea1f245f97cc78d401b9ce725 2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa William Bundgaard <william.bundgd@gmail.com> 1734358172 +0100	rebase -i (start): checkout 2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa
+2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa 0ec0c98c0d4cf41befa289622b87dca7acb6ed1b William Bundgaard <william.bundgd@gmail.com> 1734358172 +0100	rebase -i: fast-forward
+0ec0c98c0d4cf41befa289622b87dca7acb6ed1b da3c4773b10bece87e3d1f99b93f78391f33491a William Bundgaard <william.bundgd@gmail.com> 1734358195 +0100	commit: update
+da3c4773b10bece87e3d1f99b93f78391f33491a ab7951d306fc329295a484173af99098dd7c4351 William Bundgaard <william.bundgd@gmail.com> 1734358197 +0100	rebase -i (pick): f
+ab7951d306fc329295a484173af99098dd7c4351 ab7951d306fc329295a484173af99098dd7c4351 William Bundgaard <william.bundgd@gmail.com> 1734358197 +0100	rebase -i (finish): returning to refs/heads/main
+ab7951d306fc329295a484173af99098dd7c4351 0ec0c98c0d4cf41befa289622b87dca7acb6ed1b William Bundgaard <william.bundgd@gmail.com> 1734358200 +0100	rebase -i (start): checkout 2fbd2a2e307e3a2f8a4cc67b521c0f7d939783aa
+0ec0c98c0d4cf41befa289622b87dca7acb6ed1b d67f2e4951e33a6e00761e53c9e1c057b3a0853b William Bundgaard <william.bundgd@gmail.com> 1734358200 +0100	rebase -i (squash): Update commit_messages.txt
+d67f2e4951e33a6e00761e53c9e1c057b3a0853b 2e46145846bd6fec8e80de6b979ed4784a0fd683 William Bundgaard <william.bundgd@gmail.com> 1734358200 +0100	rebase -i (pick): f
+2e46145846bd6fec8e80de6b979ed4784a0fd683 2e46145846bd6fec8e80de6b979ed4784a0fd683 William Bundgaard <william.bundgd@gmail.com> 1734358200 +0100	rebase -i (finish): returning to refs/heads/main
+2e46145846bd6fec8e80de6b979ed4784a0fd683 33c9ab0649e3744fe501ed16debe22a908ab90ed William Bundgaard <william.bundgd@gmail.com> 1734439061 +0100	rebase -i (start): checkout 33c9ab0649e3744fe501ed16debe22a908ab90ed
+33c9ab0649e3744fe501ed16debe22a908ab90ed 6960aa16a74b862e99017852b9ce256a26fd66ee William Bundgaard <william.bundgd@gmail.com> 1734439061 +0100	rebase -i: fast-forward
+6960aa16a74b862e99017852b9ce256a26fd66ee d6f03b0b45ea85c0641330bfef9444787ede1d4b William Bundgaard <william.bundgd@gmail.com> 1734439086 +0100	commit: update flag
+d6f03b0b45ea85c0641330bfef9444787ede1d4b 0444520bbedd1f134d324d86eb44adc02681598f William Bundgaard <william.bundgd@gmail.com> 1734439111 +0100	rebase -i (continue): big changes comming
+0444520bbedd1f134d324d86eb44adc02681598f 6ef432d6132fb1a7c86e99a322b15cd7df186dcb William Bundgaard <william.bundgd@gmail.com> 1734439111 +0100	rebase -i (pick): 0010
+6ef432d6132fb1a7c86e99a322b15cd7df186dcb 708e1fa623354f516c8978c318fcba1bbba36714 William Bundgaard <william.bundgd@gmail.com> 1734439111 +0100	rebase -i (pick): Update commit_messages.txt
+708e1fa623354f516c8978c318fcba1bbba36714 72eb38c82d7068c4cde0674d4f1ed429d198f2dc William Bundgaard <william.bundgd@gmail.com> 1734439111 +0100	rebase -i (pick): f
+72eb38c82d7068c4cde0674d4f1ed429d198f2dc 72eb38c82d7068c4cde0674d4f1ed429d198f2dc William Bundgaard <william.bundgd@gmail.com> 1734439111 +0100	rebase -i (finish): returning to refs/heads/main
+72eb38c82d7068c4cde0674d4f1ed429d198f2dc 6960aa16a74b862e99017852b9ce256a26fd66ee William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (start): checkout 33c9ab0649e3744fe501ed16debe22a908ab90ed
+6960aa16a74b862e99017852b9ce256a26fd66ee 1515087818a565a9e06f33ebfe566c1553f73dd2 William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (squash): Last step of the greatest pipeline
+1515087818a565a9e06f33ebfe566c1553f73dd2 0194091fbd2162cb74466f2db92b69ff0f8ffb43 William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (pick): big changes comming
+0194091fbd2162cb74466f2db92b69ff0f8ffb43 7c55a0f2a0c218138688e8abb96c988c66dc2f9e William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (pick): 0010
+7c55a0f2a0c218138688e8abb96c988c66dc2f9e 51d215f48da602d4572604e5b156171026c4016b William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (pick): Update commit_messages.txt
+51d215f48da602d4572604e5b156171026c4016b e50acab8a48c06fcc74d1a140119f38e01f6b3e1 William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (pick): f
+e50acab8a48c06fcc74d1a140119f38e01f6b3e1 e50acab8a48c06fcc74d1a140119f38e01f6b3e1 William Bundgaard <william.bundgd@gmail.com> 1734439120 +0100	rebase -i (finish): returning to refs/heads/main
+e50acab8a48c06fcc74d1a140119f38e01f6b3e1 1515087818a565a9e06f33ebfe566c1553f73dd2 William Bundgaard <william.bundgd@gmail.com> 1734439125 +0100	rebase -i (start): checkout 1515087818a565a9e06f33ebfe566c1553f73dd2
+1515087818a565a9e06f33ebfe566c1553f73dd2 0194091fbd2162cb74466f2db92b69ff0f8ffb43 William Bundgaard <william.bundgd@gmail.com> 1734439125 +0100	rebase -i: fast-forward
+0194091fbd2162cb74466f2db92b69ff0f8ffb43 6684e3da1273d956c6b3c06be017aabc357b6d66 William Bundgaard <william.bundgd@gmail.com> 1734439148 +0100	commit: update flag
+6684e3da1273d956c6b3c06be017aabc357b6d66 49ca38b88a01b9ba271c969822c3a9174f419060 William Bundgaard <william.bundgd@gmail.com> 1734439153 +0100	rebase -i (pick): 0010
+49ca38b88a01b9ba271c969822c3a9174f419060 ff29b8465d1cd68c72e46b99312a92f2af4ad6bd William Bundgaard <william.bundgd@gmail.com> 1734439153 +0100	rebase -i (pick): Update commit_messages.txt
+ff29b8465d1cd68c72e46b99312a92f2af4ad6bd ab3abbd0c38738acd6f8c6f18e13d50ad900afe3 William Bundgaard <william.bundgd@gmail.com> 1734439153 +0100	rebase -i (pick): f
+ab3abbd0c38738acd6f8c6f18e13d50ad900afe3 ab3abbd0c38738acd6f8c6f18e13d50ad900afe3 William Bundgaard <william.bundgd@gmail.com> 1734439153 +0100	rebase -i (finish): returning to refs/heads/main
+ab3abbd0c38738acd6f8c6f18e13d50ad900afe3 0194091fbd2162cb74466f2db92b69ff0f8ffb43 William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (start): checkout 1515087818a565a9e06f33ebfe566c1553f73dd2
+0194091fbd2162cb74466f2db92b69ff0f8ffb43 518376a524dfff105f7fc96315b758156c7c2e59 William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (squash): big changes comming
+518376a524dfff105f7fc96315b758156c7c2e59 31a0404771e389ce98a42072efb91ef4878b3ef4 William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (pick): 0010
+31a0404771e389ce98a42072efb91ef4878b3ef4 c2a55bbdf20bd4d0c8a23088c480dc7e0d99ea1d William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (pick): Update commit_messages.txt
+c2a55bbdf20bd4d0c8a23088c480dc7e0d99ea1d ebd2a016d290303ffc4413f5cb0992872593e81a William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (pick): f
+ebd2a016d290303ffc4413f5cb0992872593e81a ebd2a016d290303ffc4413f5cb0992872593e81a William Bundgaard <william.bundgd@gmail.com> 1734439158 +0100	rebase -i (finish): returning to refs/heads/main
+ebd2a016d290303ffc4413f5cb0992872593e81a 518376a524dfff105f7fc96315b758156c7c2e59 William Bundgaard <william.bundgd@gmail.com> 1734439163 +0100	rebase -i (start): checkout 518376a524dfff105f7fc96315b758156c7c2e59
+518376a524dfff105f7fc96315b758156c7c2e59 31a0404771e389ce98a42072efb91ef4878b3ef4 William Bundgaard <william.bundgd@gmail.com> 1734439163 +0100	rebase -i: fast-forward
+31a0404771e389ce98a42072efb91ef4878b3ef4 7bbae4c3fe65054bb14f95073dfd8ca8bd8d8caf William Bundgaard <william.bundgd@gmail.com> 1734439182 +0100	commit: flag update
+7bbae4c3fe65054bb14f95073dfd8ca8bd8d8caf a22c7e39127a6d287954b7f3a3dd6a6d00354c27 William Bundgaard <william.bundgd@gmail.com> 1734439192 +0100	rebase -i (continue): Update commit_messages.txt
+a22c7e39127a6d287954b7f3a3dd6a6d00354c27 75233e1fc13a6231fe7347832957d476267c492a William Bundgaard <william.bundgd@gmail.com> 1734439192 +0100	rebase -i (pick): f
+75233e1fc13a6231fe7347832957d476267c492a 75233e1fc13a6231fe7347832957d476267c492a William Bundgaard <william.bundgd@gmail.com> 1734439192 +0100	rebase -i (finish): returning to refs/heads/main
+75233e1fc13a6231fe7347832957d476267c492a 31a0404771e389ce98a42072efb91ef4878b3ef4 William Bundgaard <william.bundgd@gmail.com> 1734439195 +0100	rebase -i (start): checkout 518376a524dfff105f7fc96315b758156c7c2e59
+31a0404771e389ce98a42072efb91ef4878b3ef4 552364d67e22636744d4c44918d24056cb5c681a William Bundgaard <william.bundgd@gmail.com> 1734439195 +0100	rebase -i (squash): 0010
+552364d67e22636744d4c44918d24056cb5c681a ff0c50727619ea75b7c83ccfd32921683c001d38 William Bundgaard <william.bundgd@gmail.com> 1734439195 +0100	rebase -i (pick): Update commit_messages.txt
+ff0c50727619ea75b7c83ccfd32921683c001d38 e8795691bf548f6f78c068569c55f1c02b21acb8 William Bundgaard <william.bundgd@gmail.com> 1734439195 +0100	rebase -i (pick): f
+e8795691bf548f6f78c068569c55f1c02b21acb8 e8795691bf548f6f78c068569c55f1c02b21acb8 William Bundgaard <william.bundgd@gmail.com> 1734439195 +0100	rebase -i (finish): returning to refs/heads/main
+e8795691bf548f6f78c068569c55f1c02b21acb8 552364d67e22636744d4c44918d24056cb5c681a William Bundgaard <william.bundgd@gmail.com> 1734439198 +0100	rebase -i (start): checkout 552364d67e22636744d4c44918d24056cb5c681a
+552364d67e22636744d4c44918d24056cb5c681a ff0c50727619ea75b7c83ccfd32921683c001d38 William Bundgaard <william.bundgd@gmail.com> 1734439198 +0100	rebase -i: fast-forward
+ff0c50727619ea75b7c83ccfd32921683c001d38 d16a2c2f589a2d54da01532b5748b77ee1dcb5cb William Bundgaard <william.bundgd@gmail.com> 1734439223 +0100	commit: flag update
+d16a2c2f589a2d54da01532b5748b77ee1dcb5cb 7839c7dbc1017800b3a70d8163e2b469477f6fb0 William Bundgaard <william.bundgd@gmail.com> 1734439226 +0100	rebase -i (pick): f
+7839c7dbc1017800b3a70d8163e2b469477f6fb0 7839c7dbc1017800b3a70d8163e2b469477f6fb0 William Bundgaard <william.bundgd@gmail.com> 1734439226 +0100	rebase -i (finish): returning to refs/heads/main
+7839c7dbc1017800b3a70d8163e2b469477f6fb0 ff0c50727619ea75b7c83ccfd32921683c001d38 William Bundgaard <william.bundgd@gmail.com> 1734439228 +0100	rebase -i (start): checkout 552364d67e22636744d4c44918d24056cb5c681a
+ff0c50727619ea75b7c83ccfd32921683c001d38 c5f056a7a3e9f4643f078f2a0c58c0714ef5797d William Bundgaard <william.bundgd@gmail.com> 1734439228 +0100	rebase -i (squash): Update commit_messages.txt
+c5f056a7a3e9f4643f078f2a0c58c0714ef5797d 6f815059e35eb1a891c44aaf96fd759f71495ddd William Bundgaard <william.bundgd@gmail.com> 1734439228 +0100	rebase -i (pick): f
+6f815059e35eb1a891c44aaf96fd759f71495ddd 6f815059e35eb1a891c44aaf96fd759f71495ddd William Bundgaard <william.bundgd@gmail.com> 1734439228 +0100	rebase -i (finish): returning to refs/heads/main

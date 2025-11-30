@@ -1,0 +1,15 @@
+assets: true
+clone_addr: http://localhost:3000/EDS/Ulduar
+comments: true
+description: This is Ulduar
+is_private: false
+issues: true
+labels: true
+milestones: true
+name: Ulduar
+original_url: https://git.devops.hkn/EDS/Ulduar
+owner: EDS
+pulls: true
+releases: true
+service_type: 3
+wiki: true

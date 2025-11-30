@@ -1,0 +1,15 @@
+assets: true
+clone_addr: http://localhost:3000/EDS/Firelands
+comments: true
+description: This is Firelands
+is_private: false
+issues: true
+labels: true
+milestones: true
+name: Firelands
+original_url: https://git.devops.hkn/EDS/Firelands
+owner: EDS
+pulls: true
+releases: true
+service_type: 3
+wiki: true

@@ -1,0 +1,124 @@
+0000000000000000000000000000000000000000 0948660523c34dd7e1fa66466d079bb029d0ec85 Asaf <asaf@cidersecurity.io> 1648991928 +0300	clone: from http://localhost:3000/Wonderland/cheshire-cat.git
+0948660523c34dd7e1fa66466d079bb029d0ec85 d3c9717b03bb25aa544d63c4a06e35e37128efa7 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714994321 -0400	commit: testing file and pipeline
+d3c9717b03bb25aa544d63c4a06e35e37128efa7 5a754b1ebcb004270a0765f5bd93e04faa8a8399 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715092892 -0400	commit: updated the pipeline for new registry
+5a754b1ebcb004270a0765f5bd93e04faa8a8399 4f753f64b7c3a337b40a7096d13553e23651243d Morten LAPTOP Jakobsen <mojak18@student.sdu.dk> 1715160199 +0200	commit: update
+4f753f64b7c3a337b40a7096d13553e23651243d 5095db8fbef3623c667e2d0bf3a8e1441c697017 Morten LAPTOP Jakobsen <mojak18@student.sdu.dk> 1715165818 +0200	commit: I know drone is comming
+5095db8fbef3623c667e2d0bf3a8e1441c697017 4dd8139e4b5c75941ea4a08dbd261e2cc521444e Morten LAPTOP Jakobsen <mojak18@student.sdu.dk> 1715165879 +0200	commit: python is the shit
+4dd8139e4b5c75941ea4a08dbd261e2cc521444e f0c19550a9168061d0033a3bccbfeb0a4c54aadc Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715240483 -0400	commit: pushed fix
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc 1ed4da564d3576912108509d9134b10994b46550 William Bundgaard <william.bundgd@gmail.com> 1732617556 +0100	commit: changed to right registry
+1ed4da564d3576912108509d9134b10994b46550 354ad943ccf32db7ffa3a7076fd5393fc0120679 William Bundgaard <william.bundgd@gmail.com> 1732621995 +0100	commit: included the env var the right way
+354ad943ccf32db7ffa3a7076fd5393fc0120679 1ed4da564d3576912108509d9134b10994b46550 William Bundgaard <william.bundgd@gmail.com> 1734354554 +0100	rebase -i (start): checkout 1ed4da564d3576912108509d9134b10994b46550
+1ed4da564d3576912108509d9134b10994b46550 1ed4da564d3576912108509d9134b10994b46550 William Bundgaard <william.bundgd@gmail.com> 1734354554 +0100	rebase -i (finish): returning to refs/heads/main
+1ed4da564d3576912108509d9134b10994b46550 f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734354558 +0100	rebase -i (start): checkout f0c19550a9168061d0033a3bccbfeb0a4c54aadc
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734354558 +0100	rebase -i (finish): returning to refs/heads/main
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734354751 +0100	rebase: updating HEAD
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc 0948660523c34dd7e1fa66466d079bb029d0ec85 William Bundgaard <william.bundgd@gmail.com> 1734354751 +0100	rebase -i (start): checkout 0948660523c34dd7e1fa66466d079bb029d0ec85
+0948660523c34dd7e1fa66466d079bb029d0ec85 d3c9717b03bb25aa544d63c4a06e35e37128efa7 William Bundgaard <william.bundgd@gmail.com> 1734354751 +0100	rebase -i: fast-forward
+d3c9717b03bb25aa544d63c4a06e35e37128efa7 7b231a45d60b105814ce12d47e3a71236252ffc1 William Bundgaard <william.bundgd@gmail.com> 1734354803 +0100	commit: update
+7b231a45d60b105814ce12d47e3a71236252ffc1 f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734354922 +0100	checkout: moving from 7b231a45d60b105814ce12d47e3a71236252ffc1 to f0c19550a9168061d0033a3bccbfeb0a4c54aadc
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc 4dd8139e4b5c75941ea4a08dbd261e2cc521444e William Bundgaard <william.bundgd@gmail.com> 1734354933 +0100	checkout: moving from f0c19550a9168061d0033a3bccbfeb0a4c54aadc to 4dd8139e4b5c75941ea4a08dbd261e2cc521444e
+4dd8139e4b5c75941ea4a08dbd261e2cc521444e 5095db8fbef3623c667e2d0bf3a8e1441c697017 William Bundgaard <william.bundgd@gmail.com> 1734354935 +0100	checkout: moving from 4dd8139e4b5c75941ea4a08dbd261e2cc521444e to 5095db8fbef3623c667e2d0bf3a8e1441c697017
+5095db8fbef3623c667e2d0bf3a8e1441c697017 4f753f64b7c3a337b40a7096d13553e23651243d William Bundgaard <william.bundgd@gmail.com> 1734354937 +0100	checkout: moving from 5095db8fbef3623c667e2d0bf3a8e1441c697017 to 4f753f64b7c3a337b40a7096d13553e23651243d
+4f753f64b7c3a337b40a7096d13553e23651243d 5a754b1ebcb004270a0765f5bd93e04faa8a8399 William Bundgaard <william.bundgd@gmail.com> 1734354945 +0100	checkout: moving from 4f753f64b7c3a337b40a7096d13553e23651243d to 5a754b1ebcb004270a0765f5bd93e04faa8a8399
+5a754b1ebcb004270a0765f5bd93e04faa8a8399 4f753f64b7c3a337b40a7096d13553e23651243d William Bundgaard <william.bundgd@gmail.com> 1734355072 +0100	rebase -i: fast-forward
+4f753f64b7c3a337b40a7096d13553e23651243d 5095db8fbef3623c667e2d0bf3a8e1441c697017 William Bundgaard <william.bundgd@gmail.com> 1734355072 +0100	rebase -i: fast-forward
+5095db8fbef3623c667e2d0bf3a8e1441c697017 4dd8139e4b5c75941ea4a08dbd261e2cc521444e William Bundgaard <william.bundgd@gmail.com> 1734355072 +0100	rebase -i: fast-forward
+4dd8139e4b5c75941ea4a08dbd261e2cc521444e f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734355072 +0100	rebase -i: fast-forward
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc f0c19550a9168061d0033a3bccbfeb0a4c54aadc William Bundgaard <william.bundgd@gmail.com> 1734355072 +0100	rebase -i (finish): returning to refs/heads/main
+f0c19550a9168061d0033a3bccbfeb0a4c54aadc 9f0763b8e6e62a00601a732587898d778e6b84b1 William Bundgaard <william.bundgd@gmail.com> 1734355111 +0100	commit: update
+9f0763b8e6e62a00601a732587898d778e6b84b1 4dd8139e4b5c75941ea4a08dbd261e2cc521444e William Bundgaard <william.bundgd@gmail.com> 1734355126 +0100	rebase -i (start): checkout 4dd8139e4b5c75941ea4a08dbd261e2cc521444e
+4dd8139e4b5c75941ea4a08dbd261e2cc521444e 936147ae083114740abb3e3f1335dfd3544466e1 William Bundgaard <william.bundgd@gmail.com> 1734355126 +0100	rebase -i (pick): update
+936147ae083114740abb3e3f1335dfd3544466e1 0fb3e0e9f7ea85cb1194fee8fe83a804fcef4647 William Bundgaard <william.bundgd@gmail.com> 1734355126 +0100	rebase -i (pick): pushed fix
+0fb3e0e9f7ea85cb1194fee8fe83a804fcef4647 0fb3e0e9f7ea85cb1194fee8fe83a804fcef4647 William Bundgaard <william.bundgd@gmail.com> 1734355126 +0100	rebase -i (finish): returning to refs/heads/main
+0fb3e0e9f7ea85cb1194fee8fe83a804fcef4647 5095db8fbef3623c667e2d0bf3a8e1441c697017 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (start): checkout 5095db8fbef3623c667e2d0bf3a8e1441c697017
+5095db8fbef3623c667e2d0bf3a8e1441c697017 b289caeaa16efb636f759c788cd83c3af16429d3 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): update
+b289caeaa16efb636f759c788cd83c3af16429d3 bc175758c41f1a4714464a94e03a4ca8b818650a William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): python is the shit
+bc175758c41f1a4714464a94e03a4ca8b818650a 03a99defa3c4e7d03ad45f5e55d9aac0d29d6861 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): pushed fix
+03a99defa3c4e7d03ad45f5e55d9aac0d29d6861 03a99defa3c4e7d03ad45f5e55d9aac0d29d6861 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (finish): returning to refs/heads/main
+03a99defa3c4e7d03ad45f5e55d9aac0d29d6861 4f753f64b7c3a337b40a7096d13553e23651243d William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (start): checkout 4f753f64b7c3a337b40a7096d13553e23651243d
+4f753f64b7c3a337b40a7096d13553e23651243d 542b5cfd9bc4f8a2663be2b95f8fc6346a4c129e William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): update
+542b5cfd9bc4f8a2663be2b95f8fc6346a4c129e e4f8c76cf5942712bf2c3432106a968f4f29b1ab William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): I know drone is comming
+e4f8c76cf5942712bf2c3432106a968f4f29b1ab af0b217ef5a82f96ce06793bd9df276f62e712f9 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): python is the shit
+af0b217ef5a82f96ce06793bd9df276f62e712f9 6c2bcc09a466e783bf9ab59b18edd370b99a80e2 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (pick): pushed fix
+6c2bcc09a466e783bf9ab59b18edd370b99a80e2 6c2bcc09a466e783bf9ab59b18edd370b99a80e2 William Bundgaard <william.bundgd@gmail.com> 1734355127 +0100	rebase -i (finish): returning to refs/heads/main
+6c2bcc09a466e783bf9ab59b18edd370b99a80e2 5a754b1ebcb004270a0765f5bd93e04faa8a8399 William Bundgaard <william.bundgd@gmail.com> 1734355128 +0100	rebase -i (start): checkout 5a754b1ebcb004270a0765f5bd93e04faa8a8399
+5a754b1ebcb004270a0765f5bd93e04faa8a8399 6c2bcc09a466e783bf9ab59b18edd370b99a80e2 William Bundgaard <william.bundgd@gmail.com> 1734355131 +0100	rebase -i (abort): updating HEAD
+6c2bcc09a466e783bf9ab59b18edd370b99a80e2 5a754b1ebcb004270a0765f5bd93e04faa8a8399 William Bundgaard <william.bundgd@gmail.com> 1734355132 +0100	rebase -i (start): checkout 5a754b1ebcb004270a0765f5bd93e04faa8a8399
+5a754b1ebcb004270a0765f5bd93e04faa8a8399 2376ff1cb9023ab5f4b3a57aa5d512f80b73b823 William Bundgaard <william.bundgd@gmail.com> 1734355146 +0100	rebase -i (continue): update
+2376ff1cb9023ab5f4b3a57aa5d512f80b73b823 24a2fc4ad8ab9b3991837d0214c69c771e19c4a5 William Bundgaard <william.bundgd@gmail.com> 1734355148 +0100	rebase -i (continue): update
+24a2fc4ad8ab9b3991837d0214c69c771e19c4a5 b44ece29e9c252ece6ed0bf243e30ec320e9393c William Bundgaard <william.bundgd@gmail.com> 1734355148 +0100	rebase -i (pick): I know drone is comming
+b44ece29e9c252ece6ed0bf243e30ec320e9393c bebdff3badb55b7a25acf0055da9d88819e00570 William Bundgaard <william.bundgd@gmail.com> 1734355148 +0100	rebase -i (pick): python is the shit
+bebdff3badb55b7a25acf0055da9d88819e00570 b07ca961c25bcb24ad5170e8e34ec1c1b03d4d44 William Bundgaard <william.bundgd@gmail.com> 1734355148 +0100	rebase -i (pick): pushed fix
+b07ca961c25bcb24ad5170e8e34ec1c1b03d4d44 b07ca961c25bcb24ad5170e8e34ec1c1b03d4d44 William Bundgaard <william.bundgd@gmail.com> 1734355148 +0100	rebase -i (finish): returning to refs/heads/main
+b07ca961c25bcb24ad5170e8e34ec1c1b03d4d44 d3c9717b03bb25aa544d63c4a06e35e37128efa7 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (start): checkout d3c9717b03bb25aa544d63c4a06e35e37128efa7
+d3c9717b03bb25aa544d63c4a06e35e37128efa7 dc33c974492127ba541491497be6511872907f39 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): update
+dc33c974492127ba541491497be6511872907f39 097db4aa195b9cbfd42d1d81fd228808afe57715 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): updated the pipeline for new registry
+097db4aa195b9cbfd42d1d81fd228808afe57715 616cfccde2a1c21cecb67918110e70b0c714cf23 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): update
+616cfccde2a1c21cecb67918110e70b0c714cf23 905d17012279168c6e89d422cda53096a736370a William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): I know drone is comming
+905d17012279168c6e89d422cda53096a736370a be756f59e956192768265d7386838050aecfe46a William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): python is the shit
+be756f59e956192768265d7386838050aecfe46a eaa897a6a9726f59e9924f953fe551a945a4fcd9 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (pick): pushed fix
+eaa897a6a9726f59e9924f953fe551a945a4fcd9 eaa897a6a9726f59e9924f953fe551a945a4fcd9 William Bundgaard <william.bundgd@gmail.com> 1734355154 +0100	rebase -i (finish): returning to refs/heads/main
+eaa897a6a9726f59e9924f953fe551a945a4fcd9 d3c9717b03bb25aa544d63c4a06e35e37128efa7 William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (start): checkout 0948660523c34dd7e1fa66466d079bb029d0ec85
+d3c9717b03bb25aa544d63c4a06e35e37128efa7 c10cfa74317d28d82e4a1f3be61f82839325c9ee William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (squash): testing file and pipeline
+c10cfa74317d28d82e4a1f3be61f82839325c9ee 7108955867c5ae257145c07761715cdc703a936c William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (pick): updated the pipeline for new registry
+7108955867c5ae257145c07761715cdc703a936c d084b337963aa10b8399d0704681f9b9cdb866a7 William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (pick): update
+d084b337963aa10b8399d0704681f9b9cdb866a7 75aabb3efc1533efcce8fc05ef6d012889696839 William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (pick): I know drone is comming
+75aabb3efc1533efcce8fc05ef6d012889696839 17bdc13a8523ea7a29c9e9db2ee95e63f1287b8b William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (pick): python is the shit
+17bdc13a8523ea7a29c9e9db2ee95e63f1287b8b 47a45828db4f3c77413430dbb7397c40af7549ae William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (pick): pushed fix
+47a45828db4f3c77413430dbb7397c40af7549ae 47a45828db4f3c77413430dbb7397c40af7549ae William Bundgaard <william.bundgd@gmail.com> 1734355156 +0100	rebase -i (finish): returning to refs/heads/main
+47a45828db4f3c77413430dbb7397c40af7549ae 377ca863efed7dcf708385e609d52b8107c50b1f William Bundgaard <william.bundgd@gmail.com> 1734355219 +0100	commit: update
+377ca863efed7dcf708385e609d52b8107c50b1f 17bdc13a8523ea7a29c9e9db2ee95e63f1287b8b William Bundgaard <william.bundgd@gmail.com> 1734355225 +0100	rebase -i (start): checkout 17bdc13a8523ea7a29c9e9db2ee95e63f1287b8b
+17bdc13a8523ea7a29c9e9db2ee95e63f1287b8b 902e552372a5021a81881ebf98a4112d57607c9a William Bundgaard <william.bundgd@gmail.com> 1734355225 +0100	rebase -i (pick): update
+902e552372a5021a81881ebf98a4112d57607c9a 6559336adda7f0672f6a3098d84646dc407d3d5b William Bundgaard <william.bundgd@gmail.com> 1734355225 +0100	rebase -i (pick): pushed fix
+6559336adda7f0672f6a3098d84646dc407d3d5b 6559336adda7f0672f6a3098d84646dc407d3d5b William Bundgaard <william.bundgd@gmail.com> 1734355225 +0100	rebase -i (finish): returning to refs/heads/main
+6559336adda7f0672f6a3098d84646dc407d3d5b 75aabb3efc1533efcce8fc05ef6d012889696839 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (start): checkout 75aabb3efc1533efcce8fc05ef6d012889696839
+75aabb3efc1533efcce8fc05ef6d012889696839 2af3ec10632571eeedbf65cba9affda6af22cd85 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): update
+2af3ec10632571eeedbf65cba9affda6af22cd85 f517ab2248e3db2e802868e1e7d2bc01480afc87 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): python is the shit
+f517ab2248e3db2e802868e1e7d2bc01480afc87 320d46175ffd6af017ffa31e86d0dc8df2c01ffe William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): pushed fix
+320d46175ffd6af017ffa31e86d0dc8df2c01ffe 320d46175ffd6af017ffa31e86d0dc8df2c01ffe William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (finish): returning to refs/heads/main
+320d46175ffd6af017ffa31e86d0dc8df2c01ffe d084b337963aa10b8399d0704681f9b9cdb866a7 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (start): checkout d084b337963aa10b8399d0704681f9b9cdb866a7
+d084b337963aa10b8399d0704681f9b9cdb866a7 9cedb05e8d636f07b019e568b3c7bfbff536c08a William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): update
+9cedb05e8d636f07b019e568b3c7bfbff536c08a ba6a012e135ccd160f560e526aa98a0ee235f072 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): I know drone is comming
+ba6a012e135ccd160f560e526aa98a0ee235f072 bf164c8463dc2dab7053950c321ba3ec1d18bbb5 William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): python is the shit
+bf164c8463dc2dab7053950c321ba3ec1d18bbb5 6c99c50e056267a08a59fbbf1284dc36aa2c096c William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (pick): pushed fix
+6c99c50e056267a08a59fbbf1284dc36aa2c096c 6c99c50e056267a08a59fbbf1284dc36aa2c096c William Bundgaard <william.bundgd@gmail.com> 1734355226 +0100	rebase -i (finish): returning to refs/heads/main
+6c99c50e056267a08a59fbbf1284dc36aa2c096c d084b337963aa10b8399d0704681f9b9cdb866a7 William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (start): checkout 7108955867c5ae257145c07761715cdc703a936c
+d084b337963aa10b8399d0704681f9b9cdb866a7 0cb847b11da1dc62596c55b84ce787e491756c01 William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (squash): update
+0cb847b11da1dc62596c55b84ce787e491756c01 7e474217e6981dc62c6be28186d99cf042cae9b4 William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (pick): I know drone is comming
+7e474217e6981dc62c6be28186d99cf042cae9b4 084fb39ec0e496ca2f94734d26d89af05aefbb3e William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (pick): python is the shit
+084fb39ec0e496ca2f94734d26d89af05aefbb3e 89e8e434012b7d15d6ff60b2175811d58f0f0b9b William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (pick): pushed fix
+89e8e434012b7d15d6ff60b2175811d58f0f0b9b 89e8e434012b7d15d6ff60b2175811d58f0f0b9b William Bundgaard <william.bundgd@gmail.com> 1734355231 +0100	rebase -i (finish): returning to refs/heads/main
+89e8e434012b7d15d6ff60b2175811d58f0f0b9b 7108955867c5ae257145c07761715cdc703a936c William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (start): checkout c10cfa74317d28d82e4a1f3be61f82839325c9ee
+7108955867c5ae257145c07761715cdc703a936c 40b1f8de9a0a38abdb06000678050056f2bbc018 William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (squash): updated the pipeline for new registry
+40b1f8de9a0a38abdb06000678050056f2bbc018 1e551be0c9be13a91656dce7abc3771315208810 William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (pick): I know drone is comming
+1e551be0c9be13a91656dce7abc3771315208810 1d761d91a0c005406285a9e6cee95e0beafd9cd4 William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (pick): python is the shit
+1d761d91a0c005406285a9e6cee95e0beafd9cd4 80fb6d1f65d683baa8c978aa48e5db8eacaa9542 William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (pick): pushed fix
+80fb6d1f65d683baa8c978aa48e5db8eacaa9542 80fb6d1f65d683baa8c978aa48e5db8eacaa9542 William Bundgaard <william.bundgd@gmail.com> 1734355243 +0100	rebase -i (finish): returning to refs/heads/main
+80fb6d1f65d683baa8c978aa48e5db8eacaa9542 0948660523c34dd7e1fa66466d079bb029d0ec85 William Bundgaard <william.bundgd@gmail.com> 1734355282 +0100	rebase -i (start): checkout 0948660523c34dd7e1fa66466d079bb029d0ec85
+0948660523c34dd7e1fa66466d079bb029d0ec85 c10cfa74317d28d82e4a1f3be61f82839325c9ee William Bundgaard <william.bundgd@gmail.com> 1734355282 +0100	rebase -i: fast-forward
+c10cfa74317d28d82e4a1f3be61f82839325c9ee 5c18e2f941820e0eaa9764c799c4c556f0145dc1 William Bundgaard <william.bundgd@gmail.com> 1734355308 +0100	commit: update
+5c18e2f941820e0eaa9764c799c4c556f0145dc1 13ef2d237577f57416fff2f5f2aeaf02dfbce2ab William Bundgaard <william.bundgd@gmail.com> 1734355358 +0100	rebase -i (continue): updated the pipeline for new registry
+13ef2d237577f57416fff2f5f2aeaf02dfbce2ab eb52e8287bceb0acbf02744c1b8e0cf9d8771772 William Bundgaard <william.bundgd@gmail.com> 1734355358 +0100	rebase -i (pick): I know drone is comming
+eb52e8287bceb0acbf02744c1b8e0cf9d8771772 3455275c93ea208a0a9e5608c5b3f1692d21239a William Bundgaard <william.bundgd@gmail.com> 1734355358 +0100	rebase -i (pick): python is the shit
+3455275c93ea208a0a9e5608c5b3f1692d21239a f52d0198eaaa2d136ddf961e28f05473ec19da97 William Bundgaard <william.bundgd@gmail.com> 1734355358 +0100	rebase -i (pick): pushed fix
+f52d0198eaaa2d136ddf961e28f05473ec19da97 f52d0198eaaa2d136ddf961e28f05473ec19da97 William Bundgaard <william.bundgd@gmail.com> 1734355358 +0100	rebase -i (finish): returning to refs/heads/main
+f52d0198eaaa2d136ddf961e28f05473ec19da97 c10cfa74317d28d82e4a1f3be61f82839325c9ee William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (start): checkout 0948660523c34dd7e1fa66466d079bb029d0ec85
+c10cfa74317d28d82e4a1f3be61f82839325c9ee 4a506e898ea373e62c5f8b7685f4b97b816110b0 William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (squash): testing file and pipeline
+4a506e898ea373e62c5f8b7685f4b97b816110b0 6462dfeaf7622a85a1977345d717b43a6e5b9a07 William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (pick): updated the pipeline for new registry
+6462dfeaf7622a85a1977345d717b43a6e5b9a07 29268adc10e4ced5c5702d63d55e4d4d9b756f23 William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (pick): I know drone is comming
+29268adc10e4ced5c5702d63d55e4d4d9b756f23 9a42908350807f3473d7222da6fd99914a8d6c7e William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (pick): python is the shit
+9a42908350807f3473d7222da6fd99914a8d6c7e d1a035e2f8f7fdc282fcadc5ea17c459d0ebb0ef William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (pick): pushed fix
+d1a035e2f8f7fdc282fcadc5ea17c459d0ebb0ef d1a035e2f8f7fdc282fcadc5ea17c459d0ebb0ef William Bundgaard <william.bundgd@gmail.com> 1734355367 +0100	rebase -i (finish): returning to refs/heads/main
+d1a035e2f8f7fdc282fcadc5ea17c459d0ebb0ef 4a506e898ea373e62c5f8b7685f4b97b816110b0 William Bundgaard <william.bundgd@gmail.com> 1734360850 +0100	rebase -i (start): checkout 4a506e898ea373e62c5f8b7685f4b97b816110b0
+4a506e898ea373e62c5f8b7685f4b97b816110b0 6462dfeaf7622a85a1977345d717b43a6e5b9a07 William Bundgaard <william.bundgd@gmail.com> 1734360850 +0100	rebase -i: fast-forward
+6462dfeaf7622a85a1977345d717b43a6e5b9a07 1d3a87943fa711050ea245d0e0002a28f4c44ea9 William Bundgaard <william.bundgd@gmail.com> 1734360984 +0100	commit: update
+1d3a87943fa711050ea245d0e0002a28f4c44ea9 077f2f5d3f75871bc9c78ced29e0ce7e0e9be043 William Bundgaard <william.bundgd@gmail.com> 1734360986 +0100	rebase -i (pick): I know drone is comming
+077f2f5d3f75871bc9c78ced29e0ce7e0e9be043 5bc952a447c3beae0804b13101be62ccfb12b843 William Bundgaard <william.bundgd@gmail.com> 1734360986 +0100	rebase -i (pick): python is the shit
+5bc952a447c3beae0804b13101be62ccfb12b843 25ba2187b4e948a0cba69774cda19ea4f44dd0a6 William Bundgaard <william.bundgd@gmail.com> 1734360986 +0100	rebase -i (pick): pushed fix
+25ba2187b4e948a0cba69774cda19ea4f44dd0a6 25ba2187b4e948a0cba69774cda19ea4f44dd0a6 William Bundgaard <william.bundgd@gmail.com> 1734360986 +0100	rebase -i (finish): returning to refs/heads/main
+25ba2187b4e948a0cba69774cda19ea4f44dd0a6 6462dfeaf7622a85a1977345d717b43a6e5b9a07 William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (start): checkout 4a506e898ea373e62c5f8b7685f4b97b816110b0
+6462dfeaf7622a85a1977345d717b43a6e5b9a07 25740186d7cb8d05398ac58f7644a841b4ecf7af William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (squash): updated the pipeline for new registry
+25740186d7cb8d05398ac58f7644a841b4ecf7af 107df5eeee92229b60ed36e7f5bed70685ea3de2 William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (pick): I know drone is comming
+107df5eeee92229b60ed36e7f5bed70685ea3de2 778dd0bc4c9597830c2a27924443470c9ed1e7ff William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (pick): python is the shit
+778dd0bc4c9597830c2a27924443470c9ed1e7ff 3baabfb0d0dab60b732b5cbfd3ade9f704ddd519 William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (pick): pushed fix
+3baabfb0d0dab60b732b5cbfd3ade9f704ddd519 3baabfb0d0dab60b732b5cbfd3ade9f704ddd519 William Bundgaard <william.bundgd@gmail.com> 1734360988 +0100	rebase -i (finish): returning to refs/heads/main

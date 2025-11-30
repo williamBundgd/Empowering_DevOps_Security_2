@@ -1,0 +1,21 @@
+openssl genrsa -out eds.key 2048
+openssl req -key eds.key -new -out eds.csr
+openssl x509 -signkey eds.key -in eds.csr -req -days 365 -out eds.crt
+
+openssl genrsa -out edsCA.key 2048
+openssl req -x509 -sha256 -days 1825 -key edsCA.key -out edsCA.crt
+openssl x509 -req -CA edsCA.crt -CAkey edsCA.key -in eds.csr -out eds.crt -days 365 -CAcreateserial -extfile extra.ext
+
+openssl x509 -text -noout -in eds.crt
+
+text for key
+FIRST: C = DK, ST = Denmark, L = Odense C, O = University Of Southern Denmark, OU = Institute for Mathematics and Computer Science (IMADA), CN = devops.hkn, emailAddress = wibun20@student.sdu.dk
+CODE: 1234
+
+openssl x509 -in eds.crt -out eds.pem -outform PEM
+openssl x509 -in edsCA.crt -out edsCA.pem -outform PEM
+
+cat edsCA.pem >> eds.pem
+
+Remenber to add it to the computers ca-certificate folder and install it
+Also restart the PC

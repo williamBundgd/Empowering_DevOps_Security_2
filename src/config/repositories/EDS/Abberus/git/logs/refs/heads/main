@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 8504bb5c504e958cef794788554c9f7b1f4942da Morten Lund Jakobsen <FROM@LOCAL.kali> 1713704930 -0400	branch: Created from HEAD
+8504bb5c504e958cef794788554c9f7b1f4942da 4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 Morten Lund Jakobsen <FROM@LOCAL.kali> 1713705036 -0400	commit: changed main branch name and pipeline config
+4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 745570c9098f104b9a0e6f0e824b8d4eeaaeaf6d Morten Lund Jakobsen <FROM@LOCAL.kali> 1713778333 -0400	commit: fixes for the productions
+745570c9098f104b9a0e6f0e824b8d4eeaaeaf6d 59de4ec52bdb2195a8cb1f88de07a12ca3613470 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713778698 -0400	commit: Package fix
+59de4ec52bdb2195a8cb1f88de07a12ca3613470 f0835473b3ea8d65536e4da5f186965401c94600 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713779058 -0400	commit: update for deployment
+f0835473b3ea8d65536e4da5f186965401c94600 01a1335f59da951f5b48c2e9ce5690d53621341a Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713779761 -0400	commit: ready for instruction for automation to prod
+01a1335f59da951f5b48c2e9ce5690d53621341a a5db27fd5841506ee7d2a3b6f9084645969dfc44 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714986487 -0400	commit: Docker registry location changed
+a5db27fd5841506ee7d2a3b6f9084645969dfc44 60ffb922192dfbd8f9a364a4d1d310c84d5d14ee William Bundgaard <william.bundgd@gmail.com> 1734356880 +0100	rebase -i (finish): refs/heads/main onto 8504bb5c504e958cef794788554c9f7b1f4942da
+60ffb922192dfbd8f9a364a4d1d310c84d5d14ee da5e5b90664600f4eae4fbbab6646e3bd8644391 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (finish): refs/heads/main onto 8504bb5c504e958cef794788554c9f7b1f4942da
+da5e5b90664600f4eae4fbbab6646e3bd8644391 a7add0739649e26943dec08f8fa1f1387b9ba163 William Bundgaard <william.bundgd@gmail.com> 1734356986 +0100	rebase -i (finish): refs/heads/main onto 8504bb5c504e958cef794788554c9f7b1f4942da
+a7add0739649e26943dec08f8fa1f1387b9ba163 4d866947db505ca7c1120f4fa68ef45c080eaf06 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (finish): refs/heads/main onto 8504bb5c504e958cef794788554c9f7b1f4942da
+4d866947db505ca7c1120f4fa68ef45c080eaf06 0b0c91bef75dc361522008ba6581470de9bee6ad William Bundgaard <william.bundgd@gmail.com> 1734357047 +0100	rebase -i (finish): refs/heads/main onto b8f82e680bcb2376fa2448bd844612e7610b61b2
+0b0c91bef75dc361522008ba6581470de9bee6ad f98cc57ba125445899d413b9e0efaeeba3243434 William Bundgaard <william.bundgd@gmail.com> 1734357049 +0100	rebase -i (finish): refs/heads/main onto b8f82e680bcb2376fa2448bd844612e7610b61b2
+f98cc57ba125445899d413b9e0efaeeba3243434 1b60b6113ededdaf924ba77945b37ad6f08f95fa William Bundgaard <william.bundgd@gmail.com> 1734357101 +0100	commit: update
+1b60b6113ededdaf924ba77945b37ad6f08f95fa a53eb7af03ddf1ce85d86311aa1a7d96bf93a3b7 William Bundgaard <william.bundgd@gmail.com> 1734357103 +0100	rebase -i (finish): refs/heads/main onto 419e16d3a3d072b0b4c858219493bff08047a176

@@ -1,0 +1,48 @@
+0000000000000000000000000000000000000000 8504bb5c504e958cef794788554c9f7b1f4942da Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713701963 -0400	clone: from https://github.com/JackStouffer/Flask-Foundation.git
+8504bb5c504e958cef794788554c9f7b1f4942da 8504bb5c504e958cef794788554c9f7b1f4942da Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713704930 -0400	checkout: moving from master to main
+8504bb5c504e958cef794788554c9f7b1f4942da 4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713705036 -0400	commit: changed main branch name and pipeline config
+4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 745570c9098f104b9a0e6f0e824b8d4eeaaeaf6d Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713778333 -0400	commit: fixes for the productions
+745570c9098f104b9a0e6f0e824b8d4eeaaeaf6d 59de4ec52bdb2195a8cb1f88de07a12ca3613470 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713778698 -0400	commit: Package fix
+59de4ec52bdb2195a8cb1f88de07a12ca3613470 f0835473b3ea8d65536e4da5f186965401c94600 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713779058 -0400	commit: update for deployment
+f0835473b3ea8d65536e4da5f186965401c94600 01a1335f59da951f5b48c2e9ce5690d53621341a Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1713779761 -0400	commit: ready for instruction for automation to prod
+01a1335f59da951f5b48c2e9ce5690d53621341a a5db27fd5841506ee7d2a3b6f9084645969dfc44 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1714986487 -0400	commit: Docker registry location changed
+a5db27fd5841506ee7d2a3b6f9084645969dfc44 a5db27fd5841506ee7d2a3b6f9084645969dfc44 William Bundgaard <william.bundgd@gmail.com> 1734356744 +0100	reset: moving to HEAD
+a5db27fd5841506ee7d2a3b6f9084645969dfc44 8504bb5c504e958cef794788554c9f7b1f4942da William Bundgaard <william.bundgd@gmail.com> 1734356799 +0100	rebase -i (start): checkout 8504bb5c504e958cef794788554c9f7b1f4942da
+8504bb5c504e958cef794788554c9f7b1f4942da 4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 William Bundgaard <william.bundgd@gmail.com> 1734356799 +0100	rebase -i: fast-forward
+4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 4074dfe477b8066bad07c5b1d361dd401c4c3313 William Bundgaard <william.bundgd@gmail.com> 1734356845 +0100	commit: update
+4074dfe477b8066bad07c5b1d361dd401c4c3313 4eeb4a13f002badb306a8fabe543922a444e67bd William Bundgaard <william.bundgd@gmail.com> 1734356861 +0100	rebase -i (pick): Package fix
+4eeb4a13f002badb306a8fabe543922a444e67bd fdb25164c77d78207b92168ea46ce2dd19f746a1 William Bundgaard <william.bundgd@gmail.com> 1734356871 +0100	rebase -i (continue): update for deployment
+fdb25164c77d78207b92168ea46ce2dd19f746a1 60ffb922192dfbd8f9a364a4d1d310c84d5d14ee William Bundgaard <william.bundgd@gmail.com> 1734356880 +0100	rebase -i (pick): Docker registry location changed
+60ffb922192dfbd8f9a364a4d1d310c84d5d14ee 60ffb922192dfbd8f9a364a4d1d310c84d5d14ee William Bundgaard <william.bundgd@gmail.com> 1734356880 +0100	rebase -i (finish): returning to refs/heads/main
+60ffb922192dfbd8f9a364a4d1d310c84d5d14ee 4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (start): checkout 8504bb5c504e958cef794788554c9f7b1f4942da
+4d6fb5e921ead5b64a8a633ba731dfb3b1e61419 5127a35f597a4a1a90817f9617dfeb0a43e54097 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (squash): changed main branch name and pipeline config
+5127a35f597a4a1a90817f9617dfeb0a43e54097 def5374a4fcead0d18551946bb2585628a929460 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (pick): Package fix
+def5374a4fcead0d18551946bb2585628a929460 3f20a9a76658248f826fe0b5b0a0fab9e8f1b083 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (pick): update for deployment
+3f20a9a76658248f826fe0b5b0a0fab9e8f1b083 da5e5b90664600f4eae4fbbab6646e3bd8644391 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (pick): Docker registry location changed
+da5e5b90664600f4eae4fbbab6646e3bd8644391 da5e5b90664600f4eae4fbbab6646e3bd8644391 William Bundgaard <william.bundgd@gmail.com> 1734356885 +0100	rebase -i (finish): returning to refs/heads/main
+da5e5b90664600f4eae4fbbab6646e3bd8644391 8504bb5c504e958cef794788554c9f7b1f4942da William Bundgaard <william.bundgd@gmail.com> 1734356950 +0100	rebase -i (start): checkout 8504bb5c504e958cef794788554c9f7b1f4942da
+8504bb5c504e958cef794788554c9f7b1f4942da 5127a35f597a4a1a90817f9617dfeb0a43e54097 William Bundgaard <william.bundgd@gmail.com> 1734356950 +0100	rebase -i: fast-forward
+5127a35f597a4a1a90817f9617dfeb0a43e54097 f57472631b9723628e42fa6e6afa5de6b932afa4 William Bundgaard <william.bundgd@gmail.com> 1734356980 +0100	commit: update 2
+f57472631b9723628e42fa6e6afa5de6b932afa4 4558f41a9284e0c95fab904a1ccc73cd39dbd730 William Bundgaard <william.bundgd@gmail.com> 1734356986 +0100	rebase -i (pick): Package fix
+4558f41a9284e0c95fab904a1ccc73cd39dbd730 6f8846e54520037eccaa811c5b0413295a8f9858 William Bundgaard <william.bundgd@gmail.com> 1734356986 +0100	rebase -i (pick): update for deployment
+6f8846e54520037eccaa811c5b0413295a8f9858 a7add0739649e26943dec08f8fa1f1387b9ba163 William Bundgaard <william.bundgd@gmail.com> 1734356986 +0100	rebase -i (pick): Docker registry location changed
+a7add0739649e26943dec08f8fa1f1387b9ba163 a7add0739649e26943dec08f8fa1f1387b9ba163 William Bundgaard <william.bundgd@gmail.com> 1734356986 +0100	rebase -i (finish): returning to refs/heads/main
+a7add0739649e26943dec08f8fa1f1387b9ba163 5127a35f597a4a1a90817f9617dfeb0a43e54097 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (start): checkout 8504bb5c504e958cef794788554c9f7b1f4942da
+5127a35f597a4a1a90817f9617dfeb0a43e54097 98ac64a22b3a7cc1eda75f66fa09c5fd1ba14fb4 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (squash): changed main branch name and pipeline config
+98ac64a22b3a7cc1eda75f66fa09c5fd1ba14fb4 b8f82e680bcb2376fa2448bd844612e7610b61b2 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (pick): Package fix
+b8f82e680bcb2376fa2448bd844612e7610b61b2 b50a9246b75bb24cd543239d8e5c9f12d161a28e William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (pick): update for deployment
+b50a9246b75bb24cd543239d8e5c9f12d161a28e 4d866947db505ca7c1120f4fa68ef45c080eaf06 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (pick): Docker registry location changed
+4d866947db505ca7c1120f4fa68ef45c080eaf06 4d866947db505ca7c1120f4fa68ef45c080eaf06 William Bundgaard <william.bundgd@gmail.com> 1734356988 +0100	rebase -i (finish): returning to refs/heads/main
+4d866947db505ca7c1120f4fa68ef45c080eaf06 b8f82e680bcb2376fa2448bd844612e7610b61b2 William Bundgaard <william.bundgd@gmail.com> 1734357007 +0100	rebase -i (start): checkout b8f82e680bcb2376fa2448bd844612e7610b61b2
+b8f82e680bcb2376fa2448bd844612e7610b61b2 b50a9246b75bb24cd543239d8e5c9f12d161a28e William Bundgaard <william.bundgd@gmail.com> 1734357007 +0100	rebase -i: fast-forward
+b50a9246b75bb24cd543239d8e5c9f12d161a28e ac56bfbad70ca4b2608797f330ba3ca718b56e25 William Bundgaard <william.bundgd@gmail.com> 1734357045 +0100	commit: update
+ac56bfbad70ca4b2608797f330ba3ca718b56e25 0b0c91bef75dc361522008ba6581470de9bee6ad William Bundgaard <william.bundgd@gmail.com> 1734357047 +0100	rebase -i (pick): Docker registry location changed
+0b0c91bef75dc361522008ba6581470de9bee6ad 0b0c91bef75dc361522008ba6581470de9bee6ad William Bundgaard <william.bundgd@gmail.com> 1734357047 +0100	rebase -i (finish): returning to refs/heads/main
+0b0c91bef75dc361522008ba6581470de9bee6ad b50a9246b75bb24cd543239d8e5c9f12d161a28e William Bundgaard <william.bundgd@gmail.com> 1734357049 +0100	rebase -i (start): checkout b8f82e680bcb2376fa2448bd844612e7610b61b2
+b50a9246b75bb24cd543239d8e5c9f12d161a28e 419e16d3a3d072b0b4c858219493bff08047a176 William Bundgaard <william.bundgd@gmail.com> 1734357049 +0100	rebase -i (squash): update for deployment
+419e16d3a3d072b0b4c858219493bff08047a176 f98cc57ba125445899d413b9e0efaeeba3243434 William Bundgaard <william.bundgd@gmail.com> 1734357049 +0100	rebase -i (pick): Docker registry location changed
+f98cc57ba125445899d413b9e0efaeeba3243434 f98cc57ba125445899d413b9e0efaeeba3243434 William Bundgaard <william.bundgd@gmail.com> 1734357049 +0100	rebase -i (finish): returning to refs/heads/main
+f98cc57ba125445899d413b9e0efaeeba3243434 1b60b6113ededdaf924ba77945b37ad6f08f95fa William Bundgaard <william.bundgd@gmail.com> 1734357101 +0100	commit: update
+1b60b6113ededdaf924ba77945b37ad6f08f95fa f98cc57ba125445899d413b9e0efaeeba3243434 William Bundgaard <william.bundgd@gmail.com> 1734357103 +0100	rebase -i (start): checkout 419e16d3a3d072b0b4c858219493bff08047a176
+f98cc57ba125445899d413b9e0efaeeba3243434 a53eb7af03ddf1ce85d86311aa1a7d96bf93a3b7 William Bundgaard <william.bundgd@gmail.com> 1734357103 +0100	rebase -i (squash): Docker registry location changed
+a53eb7af03ddf1ce85d86311aa1a7d96bf93a3b7 a53eb7af03ddf1ce85d86311aa1a7d96bf93a3b7 William Bundgaard <william.bundgd@gmail.com> 1734357103 +0100	rebase -i (finish): returning to refs/heads/main

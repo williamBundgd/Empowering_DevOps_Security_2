@@ -1,0 +1,42 @@
+0000000000000000000000000000000000000000 cf916105a015dfbf6c8a2781889138480cf53165 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715082880 -0400	clone: from https://git.devops.eds/EDS/Icecrown.git
+cf916105a015dfbf6c8a2781889138480cf53165 189f0fe366028b73e6fa7089f8f1a3732c583095 Morten Lund Jakobsen @kali <FROM@LOCAL.kali> 1715116080 -0400	commit: .drone.yml update
+189f0fe366028b73e6fa7089f8f1a3732c583095 b74c0f2b48e1785bc494ddb7ab180408e0fc27b1 Morten LAPTOP Jakobsen <mojak18@student.sdu.dk> 1715165756 +0200	commit: docker is awesome
+b74c0f2b48e1785bc494ddb7ab180408e0fc27b1 42bf92f268add9dbee11cbf41931e1949d241432 William Bundgaard <william.bundgd@gmail.com> 1732618869 +0100	commit: chaned to correct registry
+42bf92f268add9dbee11cbf41931e1949d241432 b74c0f2b48e1785bc494ddb7ab180408e0fc27b1 William Bundgaard <william.bundgd@gmail.com> 1734355860 +0100	rebase -i (start): checkout 189f0fe366028b73e6fa7089f8f1a3732c583095
+b74c0f2b48e1785bc494ddb7ab180408e0fc27b1 279b807d48af67abe0c1e610b5a97dfa3b5b143b William Bundgaard <william.bundgd@gmail.com> 1734355860 +0100	rebase -i (squash): docker is awesome
+279b807d48af67abe0c1e610b5a97dfa3b5b143b 279b807d48af67abe0c1e610b5a97dfa3b5b143b William Bundgaard <william.bundgd@gmail.com> 1734355860 +0100	rebase -i (finish): returning to refs/heads/main
+279b807d48af67abe0c1e610b5a97dfa3b5b143b cf916105a015dfbf6c8a2781889138480cf53165 William Bundgaard <william.bundgd@gmail.com> 1734355924 +0100	rebase -i (start): checkout cf916105a015dfbf6c8a2781889138480cf53165
+cf916105a015dfbf6c8a2781889138480cf53165 189f0fe366028b73e6fa7089f8f1a3732c583095 William Bundgaard <william.bundgd@gmail.com> 1734355924 +0100	rebase -i: fast-forward
+189f0fe366028b73e6fa7089f8f1a3732c583095 a1c93a36ee801fd6fde11f5f3d34a81277a816fc William Bundgaard <william.bundgd@gmail.com> 1734355965 +0100	commit: update
+a1c93a36ee801fd6fde11f5f3d34a81277a816fc a5102401208bd9e6926077b2a8b0729a2b8a7b1d William Bundgaard <william.bundgd@gmail.com> 1734355986 +0100	rebase -i (continue): docker is awesome
+a5102401208bd9e6926077b2a8b0729a2b8a7b1d a5102401208bd9e6926077b2a8b0729a2b8a7b1d William Bundgaard <william.bundgd@gmail.com> 1734355986 +0100	rebase -i (finish): returning to refs/heads/main
+a5102401208bd9e6926077b2a8b0729a2b8a7b1d 189f0fe366028b73e6fa7089f8f1a3732c583095 William Bundgaard <william.bundgd@gmail.com> 1734355991 +0100	rebase -i (start): checkout cf916105a015dfbf6c8a2781889138480cf53165
+189f0fe366028b73e6fa7089f8f1a3732c583095 3bd1f1d7a5506687006202e91f64e5443bbf3de9 William Bundgaard <william.bundgd@gmail.com> 1734355991 +0100	rebase -i (squash): .drone.yml update
+3bd1f1d7a5506687006202e91f64e5443bbf3de9 51b153d2e883ef7e06f38b321409e2895fecf6ac William Bundgaard <william.bundgd@gmail.com> 1734355991 +0100	rebase -i (pick): docker is awesome
+51b153d2e883ef7e06f38b321409e2895fecf6ac 51b153d2e883ef7e06f38b321409e2895fecf6ac William Bundgaard <william.bundgd@gmail.com> 1734355991 +0100	rebase -i (finish): returning to refs/heads/main
+51b153d2e883ef7e06f38b321409e2895fecf6ac d1ca04dbe5e2ce7ebc1cba42b7fbdfb7321846d4 William Bundgaard <william.bundgd@gmail.com> 1734356019 +0100	commit: update
+d1ca04dbe5e2ce7ebc1cba42b7fbdfb7321846d4 51b153d2e883ef7e06f38b321409e2895fecf6ac William Bundgaard <william.bundgd@gmail.com> 1734356021 +0100	rebase -i (start): checkout 3bd1f1d7a5506687006202e91f64e5443bbf3de9
+51b153d2e883ef7e06f38b321409e2895fecf6ac d70184a52ff7a6866a67a8ccedde5afb521d9901 William Bundgaard <william.bundgd@gmail.com> 1734356021 +0100	rebase -i (squash): docker is awesome
+d70184a52ff7a6866a67a8ccedde5afb521d9901 d70184a52ff7a6866a67a8ccedde5afb521d9901 William Bundgaard <william.bundgd@gmail.com> 1734356021 +0100	rebase -i (finish): returning to refs/heads/main
+d70184a52ff7a6866a67a8ccedde5afb521d9901 9fcb2f53562202f8c1ce495e88d9e91d78fc1892 William Bundgaard <william.bundgd@gmail.com> 1734356033 +0100	rebase -i (start): checkout 9fcb2f53562202f8c1ce495e88d9e91d78fc1892
+9fcb2f53562202f8c1ce495e88d9e91d78fc1892 cf916105a015dfbf6c8a2781889138480cf53165 William Bundgaard <william.bundgd@gmail.com> 1734356033 +0100	rebase -i: fast-forward
+cf916105a015dfbf6c8a2781889138480cf53165 eb597435055467c8425146f15dfb5728840fda74 William Bundgaard <william.bundgd@gmail.com> 1734356057 +0100	commit: update
+eb597435055467c8425146f15dfb5728840fda74 5fdb6fdc10d687af90fd4b4e745335a677bd353a William Bundgaard <william.bundgd@gmail.com> 1734356063 +0100	rebase -i (pick): .drone.yml update
+5fdb6fdc10d687af90fd4b4e745335a677bd353a 0d2a82a53712233ab1cc29e59f9f1496faec8b46 William Bundgaard <william.bundgd@gmail.com> 1734356063 +0100	rebase -i (pick): docker is awesome
+0d2a82a53712233ab1cc29e59f9f1496faec8b46 0d2a82a53712233ab1cc29e59f9f1496faec8b46 William Bundgaard <william.bundgd@gmail.com> 1734356063 +0100	rebase -i (finish): returning to refs/heads/main
+0d2a82a53712233ab1cc29e59f9f1496faec8b46 cf916105a015dfbf6c8a2781889138480cf53165 William Bundgaard <william.bundgd@gmail.com> 1734356065 +0100	rebase -i (start): checkout 9fcb2f53562202f8c1ce495e88d9e91d78fc1892
+cf916105a015dfbf6c8a2781889138480cf53165 dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 William Bundgaard <william.bundgd@gmail.com> 1734356065 +0100	rebase -i (squash): Update .drone.yml
+dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 2e4c9d49e4b10c24877ca0c6219e9485105422de William Bundgaard <william.bundgd@gmail.com> 1734356065 +0100	rebase -i (pick): .drone.yml update
+2e4c9d49e4b10c24877ca0c6219e9485105422de 8cdf8753111aadfda5a600626a2e22a195295c32 William Bundgaard <william.bundgd@gmail.com> 1734356065 +0100	rebase -i (pick): docker is awesome
+8cdf8753111aadfda5a600626a2e22a195295c32 8cdf8753111aadfda5a600626a2e22a195295c32 William Bundgaard <william.bundgd@gmail.com> 1734356065 +0100	rebase -i (finish): returning to refs/heads/main
+8cdf8753111aadfda5a600626a2e22a195295c32 9fcb2f53562202f8c1ce495e88d9e91d78fc1892 William Bundgaard <william.bundgd@gmail.com> 1734433168 +0100	rebase -i (start): checkout 9fcb2f53562202f8c1ce495e88d9e91d78fc1892
+9fcb2f53562202f8c1ce495e88d9e91d78fc1892 dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 William Bundgaard <william.bundgd@gmail.com> 1734433168 +0100	rebase -i: fast-forward
+dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 4c8ae22f3915e17bb61a7aa2ce0358bf4503cb37 William Bundgaard <william.bundgd@gmail.com> 1734433210 +0100	commit: upadate
+4c8ae22f3915e17bb61a7aa2ce0358bf4503cb37 47c92bcc7108f27db4139166856ccbfd0216db20 William Bundgaard <william.bundgd@gmail.com> 1734433216 +0100	rebase -i (pick): .drone.yml update
+47c92bcc7108f27db4139166856ccbfd0216db20 dbf98e7033adbd437d2bc8e9de3bec90bdf701b3 William Bundgaard <william.bundgd@gmail.com> 1734433216 +0100	rebase -i (pick): docker is awesome
+dbf98e7033adbd437d2bc8e9de3bec90bdf701b3 dbf98e7033adbd437d2bc8e9de3bec90bdf701b3 William Bundgaard <william.bundgd@gmail.com> 1734433216 +0100	rebase -i (finish): returning to refs/heads/main
+dbf98e7033adbd437d2bc8e9de3bec90bdf701b3 dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 William Bundgaard <william.bundgd@gmail.com> 1734433221 +0100	rebase -i (start): checkout 9fcb2f53562202f8c1ce495e88d9e91d78fc1892
+dde9dd4d0f574ca12dbaa6114cad8c2fe470a280 1c46a0639a9ee696f6705cde033e70d53c89b347 William Bundgaard <william.bundgd@gmail.com> 1734433221 +0100	rebase -i (squash): Update .drone.yml
+1c46a0639a9ee696f6705cde033e70d53c89b347 7f314e075ad99fd522a9458b740201f40a6bd9be William Bundgaard <william.bundgd@gmail.com> 1734433221 +0100	rebase -i (pick): .drone.yml update
+7f314e075ad99fd522a9458b740201f40a6bd9be 60b33f82d9c328b3257dc554941f875e519108a1 William Bundgaard <william.bundgd@gmail.com> 1734433221 +0100	rebase -i (pick): docker is awesome
+60b33f82d9c328b3257dc554941f875e519108a1 60b33f82d9c328b3257dc554941f875e519108a1 William Bundgaard <william.bundgd@gmail.com> 1734433221 +0100	rebase -i (finish): returning to refs/heads/main

@@ -1,0 +1,2 @@
+namespace, repo_name, name, expr
+EDS,Ulduar,every-2-minutes,0 */2 * * *

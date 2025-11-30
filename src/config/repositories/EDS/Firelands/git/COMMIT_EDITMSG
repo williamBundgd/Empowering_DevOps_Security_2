@@ -1,0 +1,28 @@
+# This is a combination of 2 commits.
+# This is the 1st commit message:
+
+Update commit_messages.txt
+
+update
+
+# This is the commit message #2:
+
+flag update
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Morten Jakobsen <Mojak18@student.sdu.dk>
+# Date:      Fri May 10 16:24:26 2024 +0200
+#
+# interactive rebase in progress; onto 552364d
+# Last commands done (2 commands done):
+#    pick ff0c507 Update commit_messages.txt
+#    squash d16a2c2 flag update
+# Next command to do (1 remaining command):
+#    pick 7839c7d f
+# You are currently rebasing branch 'main' on '552364d'.
+#
+# Changes to be committed:
+#	modified:   flag.py
+#

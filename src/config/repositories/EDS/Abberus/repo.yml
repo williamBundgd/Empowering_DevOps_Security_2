@@ -1,0 +1,15 @@
+assets: true
+clone_addr: http://localhost:3000/EDS/Abberus
+comments: true
+description: This is Abberus
+is_private: false
+issues: true
+labels: true
+milestones: true
+name: Abberus
+original_url: https://git.devops.hkn/EDS/Abberus
+owner: EDS
+pulls: true
+releases: true
+service_type: 3
+wiki: true

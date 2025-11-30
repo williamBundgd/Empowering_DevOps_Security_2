@@ -1,0 +1,31 @@
+# This is a combination of 2 commits.
+# This is the 1st commit message:
+
+updated the pipeline for new registry
+
+update
+
+update
+
+# This is the commit message #2:
+
+update
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Morten Lund Jakobsen @kali <FROM@LOCAL.kali>
+# Date:      Tue May 7 10:41:32 2024 -0400
+#
+# interactive rebase in progress; onto 4a506e8
+# Last commands done (2 commands done):
+#    pick 6462dfe updated the pipeline for new registry
+#    squash 1d3a879 update
+# Next commands to do (3 remaining commands):
+#    pick 077f2f5 I know drone is comming
+#    pick 5bc952a python is the shit
+# You are currently rebasing branch 'main' on '4a506e8'.
+#
+# Changes to be committed:
+#	modified:   .drone.yml
+#

@@ -1,0 +1,25 @@
+# This is a combination of 2 commits.
+# This is the 1st commit message:
+
+Docker registry location changed
+
+# This is the commit message #2:
+
+update
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Jacopo Mauro <Jacopo@mauro.com>
+# Date:      Mon May 6 05:08:07 2024 -0400
+#
+# interactive rebase in progress; onto 419e16d
+# Last commands done (2 commands done):
+#    pick f98cc57 Docker registry location changed
+#    squash 1b60b61 update
+# No commands remaining.
+# You are currently rebasing branch 'main' on '419e16d'.
+#
+# Changes to be committed:
+#	modified:   .drone.yml
+#

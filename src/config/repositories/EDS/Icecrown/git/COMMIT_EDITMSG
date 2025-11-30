@@ -1,0 +1,29 @@
+# This is a combination of 2 commits.
+# This is the 1st commit message:
+
+Update .drone.yml
+
+update
+
+# This is the commit message #2:
+
+upadate
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    gitadmin <gitadmin@localhost>
+# Date:      Tue May 7 11:51:33 2024 +0000
+#
+# interactive rebase in progress; onto 9fcb2f5
+# Last commands done (2 commands done):
+#    pick dde9dd4 Update .drone.yml
+#    squash 4c8ae22 upadate
+# Next commands to do (2 remaining commands):
+#    pick 47c92bc .drone.yml update
+#    pick dbf98e7 docker is awesome
+# You are currently rebasing branch 'main' on '9fcb2f5'.
+#
+# Changes to be committed:
+#	modified:   .drone.yml
+#
